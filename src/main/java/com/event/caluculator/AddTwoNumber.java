@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.Integer.sum;
 
-public class AddTwoNumbers {
+public class AddTwoNumber {
     public static void main(String args[]){
         int num1,num2,sum;
         Scanner sc=new Scanner(System.in);
