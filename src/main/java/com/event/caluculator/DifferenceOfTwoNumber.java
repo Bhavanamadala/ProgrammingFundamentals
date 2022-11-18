@@ -12,6 +12,7 @@ public class DifferenceOfTwoNumber {
         num2=sc.nextInt();
         if(num1>num2){
             difference =  num1 - num2;
+
         }
         else{
             difference =  num1 - num2;
