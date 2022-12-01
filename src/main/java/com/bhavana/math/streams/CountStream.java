@@ -1,4 +1,4 @@
-package com.bhavs.streams;
+package com.bhavana.math.streams;
 
 import java.util.Arrays;
 
