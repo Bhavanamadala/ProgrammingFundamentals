@@ -1,0 +1,25 @@
+
+s
+java:S1450"QRemove the "sc" field and declare it as a local variable in the relevant methods.(Ù¿ó¼üÿÿÿÿ8¯€…òË0
+\
+java:S1854":Remove this useless assignment to local variable "number".(„á˜¹ÿÿÿÿÿ8ÿ€…òË0
+<
+java:S1659	"Declare "i" on a separate line.(Íí½8…òË0
+H
+java:S1481	"+Remove this unused "number" local variable.(Íí½8…òË0
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(ƒø°½üÿÿÿÿ8……òË0
+T
+java:S3972"7Move this "if" to a new line or add the missing "else".(ýç®ï8†…òË0
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(¯¥Òçÿÿÿÿÿ8ˆ…òË0
+T
+java:S3972"7Move this "if" to a new line or add the missing "else".(À´½Ý8‰…òË0
+T
+java:S3972"7Move this "if" to a new line or add the missing "else".(˜ÙÕ–8‰…òË0
+T
+java:S3972 "7Move this "if" to a new line or add the missing "else".(œÍ‘Î8Š…òË0
+Y
+java:S3972""7Move this "if" to a new line or add the missing "else".(«ñ£÷üÿÿÿÿ8‹…òË0
+T
+java:S3972$"7Move this "if" to a new line or add the missing "else".(¾§œõ8Œ…òË0
